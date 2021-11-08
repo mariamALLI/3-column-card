@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/mariamALLI/3-column-card.git)
-- Live Site URL: [Add live site URL here](https://3-card-component.netlify.app/)
+- Live Site URL: [Add live site URL here](https://https://3cardcomponent.netlify.app/)
 
 ## My process
 - Firstly created the HTML5 markup which included a div.container, within the container there were three(3) other divs created namely the id.card and class.card
