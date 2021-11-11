@@ -37,9 +37,9 @@ Users should be able to:
 - Live Site URL: [Add live site URL here](https://cards-component.netlify.app/)
 
 ## My process
-- Firstly created the HTML5 markup which included a div.container, within the container there were three(3) other divs created namely the id.card and class.card
-- Secondly within the inner divs created in the container included the image src, followed by the hearder-text.class for h1, sub-text.class for p and the button which had an attribute of id and class value respectively.
-- Thirdly the layout was desinged and styled using CSS and arranged according to the id and class provided in the markup
+- Firstly created the HTML5 markup which included a main.container, within the container there were three(3) divs created namely class.card card1 2 3 respectively 
+- Secondly within the inner divs created in the container included the image src, followed by the hearder-text.class for h1, sub-text.class for p and the button which had an attribute of class btn btn1 2 3 value respectively.
+- Thirdly the layout was desinged and styled using CSS and arranged according to the class provided in the markup
 
 ### Built with
 
